@@ -1,0 +1,9 @@
+influx=2.0
+telegraf=1.19
+grafana=5.4.3
+
+INFLUXDB_USERNAME=admin
+INFLUXDB_PASSWORD=admin
+
+GRAFANA_USERNAME=admin
+GRAFANA_PASSWORD=admin
